@@ -1,9 +1,9 @@
-# Medical Markers to Predict Heart Disease
+# What are the Best Medical Markers to Predict Heart Disease?
 
 
 **INTRODUCTION**
 
-This is analysis for a heart disease dataset that was collected in 1988 from 4 different geographical locations and amalgulmated into one dataset of 1025 patients.
+This is analysis of a heart disease dataset that was collected in 1988 from 4 different geographical locations and amalgulmated into one dataset of 1025 patients.
 
 The target variable (y) is a categorical indicator confirming the presence of heart disease. 0 = no disease and 1 = disease.
 
@@ -21,7 +21,7 @@ There are 14 covariates as detailed below:
   10. oldpeak: ST depression induced by exercise relative to rest
   11. slope: the slope of the peak exercise ST segment
   12. ca: number of major vessels (0-3) colored by flourosopy
-  13. thal: Thalium Stress test Result 0 = normal 1 = fixed defect; 2 =             reversable defect
+  13. thal: Thalium Stress test Result 0 = normal 1 = fixed defect; 2 =reversable defect
 
 The original scientific source of the data is unknown but was originally taken from https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.csv and saved into my local harddrive.
 
@@ -33,7 +33,7 @@ To visually explore the dataset and to determine if there are variables that can
 
 **TO RUN**
 
-The code has been written with descriptive markdowns in a Python Notebook. The dataset being analysed it Heartdata.csv.
+The code has been written with descriptive markdowns in a Python Notebook. The dataset being analysed is Heartdata.csv.
 
 1. Download the Heartdata.pynb script, Heartdata.csv and Project notes in this repository.
 
@@ -42,6 +42,7 @@ The code has been written with descriptive markdowns in a Python Notebook. The d
 3. Open the python notebook `Heartdata.pynb` in your preferred GUI (I used Anaconda Navigator and Jupyter lab) and run the script line by line. The code is clearly annotated so you can follow the process and reasoning throughtout. 
 
 4. By following the above you will be able to re-run the analysis and machine learning pipeline model to discover if any of the x variables can be considered as reliable predictors for heart disease. 
+
 
 **THE ANALYSIS**
 
