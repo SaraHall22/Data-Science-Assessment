@@ -35,11 +35,11 @@ To visually explore the dataset and to determine if there are variables that can
 
 The code has been written with descriptive markdowns in a Python Notebook. The dataset being analysed is Heartdata.csv.
 
-1. Download the Heartdata.pynb script, Heartdata.csv and Project notes in this repository.
+1. Download the Heartdata.ipynb script, Heartdata.csv and Project notes in this repository.
 
 2. Explore the dataset and notes above to familiarise yourself with the data.
 
-3. Open the python notebook `Heartdata.pynb` in your preferred GUI (I used Anaconda Navigator and Jupyter lab) and run the script line by line. The code is clearly annotated so you can follow the process and reasoning throughtout. 
+3. Open the python notebook `Heartdata.ipynb` in your preferred GUI (I used Anaconda Navigator and Jupyter lab) and run the script line by line. The code is clearly annotated so you can follow the process and reasoning throughtout. 
 
 4. By following the above you will be able to re-run the analysis and machine learning pipeline model to discover if any of the x variables can be considered as reliable predictors for heart disease. 
 
@@ -56,7 +56,7 @@ In particular I cover:
   4. Standardisation of data
   5. Principle Component Anaylsis
   6. Pipeline models
-  Data Standardistaion 
+  7. Data Standardistaion 
 
 
 
