@@ -35,7 +35,7 @@ To visually explore the dataset and to determine if there are variables that can
 
 The code has been written with descriptive markdowns in a Python Notebook. The dataset being analysed is Heartdata.csv.
 
-1. Download the Heartdata.ipynb script, Heartdata.csv and Project notes in this repository.
+1. Download the Heartdata.ipynb script, Heartdata.csv and Brief Report in this repository.
 
 2. Explore the dataset and notes above to familiarise yourself with the data.
 
